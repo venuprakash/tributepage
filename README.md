@@ -1,4 +1,4 @@
-<h1>Tribute Page</h1>
+<h1>FREECODECAMP - Tribute Page</h1>
 
 <h3>https://venuprakash.github.io/tributepage/</h3>
 
